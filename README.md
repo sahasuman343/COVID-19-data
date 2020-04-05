@@ -1,1 +1,1 @@
-# COVID-19-usefull-data
+# COVID-19-data
